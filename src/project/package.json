@@ -1,0 +1,11 @@
+{
+  "name": "respond-project",
+  "version": "1.0.0",
+  "description": "Default Respond Project",
+  "author": "Hand Whittled, LLC",
+  "license": "Unlicense",
+  "dependencies": {},
+  "devDependencies": {
+    "@handwhittled/respond": "^1.0.0"
+  }
+}
