@@ -1,4 +1,4 @@
-# respond-cli
+# Prototype CLI for a component framework
 Static Site Generator for 🔺RE:DOM
 
 Command line tool for creating, developing, building and serving static web projects using the Respond Single Page Application Framework.
@@ -29,4 +29,3 @@ site.
 
 At the root of a Respond site run `respond serve` to serve the production build of
 the site for testing.
-# prototype_respond_cli
